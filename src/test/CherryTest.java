@@ -5,4 +5,8 @@ public class CherryTest {
 	public void test() {
 		System.out.println("weather is "+weather);
 	}
+	
+	public void test(String weather) {
+		System.out.println("weather is "+weather);
+	}
 }
