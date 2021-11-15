@@ -7,5 +7,7 @@ public class ClassicPage {
 		int p=k1+k;
 		System.out.println(p);
 		System.out.println("BYE");
+		
+		String name="java git";
 	}
 }
