@@ -6,5 +6,6 @@ public class ClassicPage {
 		int k1=200;
 		int p=k1+k;
 		System.out.println(p);
+		System.out.println("BYE");
 	}
 }
