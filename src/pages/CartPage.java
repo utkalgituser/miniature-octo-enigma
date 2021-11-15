@@ -5,7 +5,7 @@ public class CartPage {
 		System.out.println("this is cart page");
 	}
 	public void cart() {
-    String name="CartD2";
+    String name="CartD1";
 		System.out.println("this is my cart page"+name);
 	}
 }
