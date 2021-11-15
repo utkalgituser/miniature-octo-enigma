@@ -1,7 +1,8 @@
 package pages;
 
 public class CartPage {
-	public String name="";
+
+	public String name="OLX";
 	public static void main(String[] argd) {
 		System.out.println("this is cart page");
 	}
