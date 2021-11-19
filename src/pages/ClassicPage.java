@@ -9,5 +9,6 @@ public class ClassicPage {
 		System.out.println("BYE");
 		
 		String name="java git";
+		int sal=12;
 	}
 }
