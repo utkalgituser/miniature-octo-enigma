@@ -10,5 +10,7 @@ public class ClassicPage {
 		
 		String name="java git";
 		int sal=12;
+		int age=25;
+
 	}
 }
