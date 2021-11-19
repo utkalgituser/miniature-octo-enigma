@@ -13,4 +13,8 @@ public class ClassicPage {
 		int age=25;
 		String name1="BUNTY";
 	}
+		public void master() {
+				System.out.println("BUNTY");
+
+	}
 }
