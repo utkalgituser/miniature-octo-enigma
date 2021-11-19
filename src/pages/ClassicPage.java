@@ -9,7 +9,7 @@ public class ClassicPage {
 		System.out.println("BYE");
 		
 		String name="java git";
-		int sal=12;
+		int sal=120;
 		int age=25;
 
 	}
