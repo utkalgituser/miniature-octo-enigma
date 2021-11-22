@@ -9,4 +9,8 @@ public class CherryPage {
 	public void test() {
 		System.out.println("test feature");
 	}
+	
+	public void cherry() {
+		System.out.println("test feature cherry");
+	}
 }
